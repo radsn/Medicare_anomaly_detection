@@ -17,5 +17,9 @@ CMS publishes data which describes provider use of the medicare healthcare syste
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
 
 ### Data Description
-1) LEIE - 73,000 records
-2) CMS Provider Utilization and Payment Data (year 2012 to 2017) each year with 9+ million records - total 56 Million records
+1) LEIE - total 73,000 records
+2) CMS Provider Utilization and Payment Data (year 2012 to 2017 with 9+ million records per year) -> total 56 Million records
+
+### Strategy to work with bigData:
+1) Sampling 200,000 random records from each of 6 years - total 1.2 Million records
+2) Sampling CMS 2017 year filtering for top 10 HCPCS codes that had the most submitted charges
