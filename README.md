@@ -13,5 +13,5 @@ CMS publishes data which describes provider use of the medicare healthcare syste
 1) LEIE: Office of Inspector General List of Excluded Individuals/Entities
 - List: ​https://oig.hhs.gov/exclusions/exclusions_list.asp
 - Exclusions Program Information: ​https://oig.hhs.gov/exclusions/index.asp
-2) CMS Center for Medicaid & Medicare Services Provider Utilization and Payment Data:
-- https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
+2) CMS Center for Medicaid & Medicare Services Provider Utilization and Payment Data: 
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
