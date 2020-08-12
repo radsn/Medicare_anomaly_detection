@@ -16,4 +16,6 @@ CMS publishes data which describes provider use of the medicare healthcare syste
 2) CMS Center for Medicaid & Medicare Services Provider Utilization and Payment Data: 
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
 
-
+### Data Description
+1) LEIE - 73,000 records
+2) CMS Provider Utilization and Payment Data (year 2012 to 2017) each year with 9+ million records - total 56 Million records
