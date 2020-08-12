@@ -1,1 +1,10 @@
-# Medicare_anomaly_detection
+# Anomaly Detection in Medicare Healthcare Data
+
+## Background
+Medicare is a U.S. healthcare program that provides insurance, primarily to individuals 65 years or older, to offload some of the financial burden associated with medical care. Even so, healthcare costs are high and continue to increase. Healthcare fraud is a major contributor to these inflating healthcare expenses which causes substantial monetary loss in Medicare and insurance industry. 
+
+## Purpose
+The aim of this project is to combine the Center for Medicaid/Medicare Service's (CMS) Provider Utilization and Payment Data files with the Office of Inspector General's List of Excluded Entities & Individuals (LEIE) in order to profile providers and detect anomalies.
+
+## Introduction
+CMS publishes data which describes provider use of the medicare healthcare system. This data includes utilization patterns, cost information and demographic information which describes each provider’s medicare population. The Office of Inspector General publishes a List of Excluded Individual/Entities (LEIE) and this dataset includes a list of providers which had been excluded from federally funded healthcare programs. The reasons for exclusion vary and include fraudulent related reasons. The goal of this project will be to cluster and profile providers based on the information in both of these data sources. ​Providers need to be profiled according to their utilization and payment patterns in order to identify providers that have similar utilization and payment patterns to those identified by LEIE dataset. The focus of this project will be on the Inpatient, Outpatient and Physician and Other Supplier Datasets from CMS.
