@@ -17,6 +17,6 @@ CMS publishes data which describes provider use of the medicare healthcare syste
 https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
 
 ### Authors
-Aparna Sundaram - aparnasundaram \\
-Radhika Nayar - radsn \\
-Sumi Choudhury - sumi0210
+- Aparna Sundaram - aparnasundaram
+- Radhika Nayar - radsn
+- Sumi Choudhury - sumi0210
