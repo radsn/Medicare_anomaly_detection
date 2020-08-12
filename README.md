@@ -20,6 +20,14 @@ https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-R
 1) LEIE - total 73,000 records
 2) CMS Provider Utilization and Payment Data (year 2012 to 2017 with 9+ million records per year) -> total 56 Million records
 
-### Strategy to work with bigData:
+### Strategy
 1) Sampling 200,000 random records from each of 6 years - total 1.2 Million records
-2) Sampling CMS 2017 year filtering for top 10 HCPCS codes that had the most submitted charges
+2) Filter CMS 2017 for top 10 HCPCS codes (accounts for 20% of charges made by providers) - total 1.5 Million records
+
+### Results
+Matching LEIE and CMS 2017 top 10HCPCS file - total 141 unique provider IDs were excluded
+- these matchings were based on NPI, lastname, firstname, zipcode, street address 
+
+
+
+
