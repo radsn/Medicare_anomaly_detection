@@ -25,7 +25,6 @@ https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-R
 2) Filter CMS 2017 for top 10 HCPCS codes (accounts for 20% of charges made by providers) - total 1.5 Million records
 * HCPCS code: Healthcare Common Procedure Coding System
 
-### Results
 Matching LEIE and CMS 2017 top 10HCPCS file - total 141 unique provider IDs were excluded
 - these matchings were based on NPI, lastname, firstname, zipcode, street address 
 
@@ -33,6 +32,6 @@ Class imbalance: add a weight factor
 - Fraud: 1 / (excluded / total) = 4634.1214
 - Not Fraud: 1 / (non-excluded / total) = 1.0002
 
-
+### Results
 
 
