@@ -31,7 +31,3 @@ Matching LEIE and CMS 2017 top 10HCPCS file - total 141 unique provider IDs were
 Class imbalance: add a weight factor
 - Fraud: 1 / (excluded / total) = 4634.1214
 - Not Fraud: 1 / (non-excluded / total) = 1.0002
-
-### Results
-
-
